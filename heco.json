@@ -1,0 +1,30 @@
+{
+  "name": "hecoswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2219845942d28716c0f7c605765fabdca1a7d9e0.png",
+  "keywords": ["cherry", "default"],
+  "tokens": [
+    {
+      "name": "CHE",
+      "symbol": "CHE",
+      "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
+      "chainId": 66,
+      "decimals": 18,
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x8179d97eb6488860d816e3ecafe694a4153f216c.png"
+    },
+	{
+      "name": "PiMoon",
+      "address": "0xe1c91942e366dd875d0ba2729fd89569fdd552db",
+      "symbol": "PiMoon",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://mdex.co/token-icons/heco/0xe1c91942e366dd875d0ba2729fd89569fdd552db.png"
+    }
+  ]
+}
